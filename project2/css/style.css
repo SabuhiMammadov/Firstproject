@@ -1,0 +1,44 @@
+body {
+    background-color: #efeee7;
+    font-family: 'Times New Roman', Times, serif;
+    color: #333333;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#header{
+    background-color: #333333;
+
+}
+#header h1{
+    color: #eee;
+    font-size: 28px;
+    text-align: center;
+}
+h2{
+    margin-left: 100px;
+    font-size: 24px;
+}
+#main-bio{
+    width: 70%;
+    float: left;
+}
+#bio-image{
+float: left;
+margin-right: 20px;
+margin-left: 100px;
+}
+p{
+    margin-left: 20px;
+   
+}
+
+#contact-info{
+    width: 30%;
+    float: left;
+}
+h3{
+    margin-left: 20px;
+}
